@@ -1,1 +1,2 @@
-Cipher Solver
+### Cipher Solver
+Cipher encryption & decryption
